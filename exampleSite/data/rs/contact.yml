@@ -1,0 +1,32 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Kontakt
+  subtitle : Radno vreme
+  content : "Od ponedeljka do petka: "
+  content1 : "**9:00 am  - 5:00 pm**"
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Šamačka 1, 11000 Beograd. Srbija"
+      
+    - icon : ti-home # themify icon pack : https://themify.me/themify-icons
+      info : "Telefon:  [(011) 347 55 38](tel:+381113475538)"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Mobile: [(063) 722 26 76](tel:+381637222676)"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: office@sudski-tumac-engleski.com"
+
+
+  # Contact form
+  contact_form:
+    enable : false
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

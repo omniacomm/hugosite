@@ -1,0 +1,32 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title :  Preko 3 decenije profesionalnog iskustva i hiljade zadovoljnih klijenata.
+  content : " Brzina, kvalitet i posvećenost svakom klijentu daju rezultate zbog kojih nam se klijenti uvek vraćaju."
+  head : O nama
+  feature_item : 
+
+      # feature item loop
+    - title : Optimalni kvalitet 
+      icon : ti-timer # themify icon pack : https://themify.me/themify-icons
+      content :  Dugogodišnje iskustvo u radu sa dokumentima od izuzetne važnosti, rad u okviru zadatih rokova uz poštovanje svih zahteva klijenata, kvalitet rada i poštovanje poverljivosti informacija.
+     
+
+      # feature item loop
+    - title : Prevod istog dana
+      icon : ti-wand # themify icon pack : https://themify.me/themify-icons
+      content :  Ako je dokument dostavljen blagovremeno i njegova dužina to omogućava, prevod će biti urađen sa (u zavisnosti od potrebe) ili bez overe istog dana.
+
+
+      # feature item loop
+    - title : Personalizovana pažnja
+      icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+      content : Ne pravimo nikakvu razliku između "velikog" i "malog" klijenta ili posla. Svaki klijent je podjednako važan.
+
+      # feature item loop
+    - title :  Konkurentne cene
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : Ne postoji viša ili niža cena. Za nas su svi isti i prema svima se postavljamo jednako.
+

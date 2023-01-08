@@ -1,0 +1,38 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.banner.banner.enable }}
+{{ with $data.banner.banner }}
+{{"<!-- Welcome Slider-->" | safeHTML}}
+<section class="hero-area" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+	<!-- this image is for trigger this section fallback background image -->
+	<img class="d-none" src="{{ .bg_image_webp | absURL }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"/>
+
+	<div class="block">
+		{{ if .icon }}
+		<div class="video-button">
+			<i class="{{ .icon }}"></i>
+		</div>
+		{{ end }}
+		<a href="{{ site.Home.Permalink }}">
+			<!-- {{ if site.Params.logobig }} -->
+				<img class="col-lg-12 lozad" data-src="{{ site.Params.logobig | absURL }}" alt="{{ .Site.Title }}" >
+			<!-- {{ end }} -->
+		</a>
+		<!-- <h1>{{ .title | markdownify }}</h1> -->
+		<br/><br/><br/><br/>
+
+		<div>
+			<h2 >{{ .content | markdownify }} </h2>	
+		</div>
+		{{ if .button.enable }}
+		{{ with .button }}
+		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+		{{ end }}
+		{{ end }}
+		<br/><br/><br/><br/>
+		<h3>{{ .content1 | markdownify }} <spam style="color: white; font-size:26.0pt">{{.number | markdownify}} </spam> {{ .content2 | markdownify }}</h3>
+	</div>
+</section>
+{{"<!-- /Welcome Slider-->" | safeHTML}}
+{{end}}
+{{end}}

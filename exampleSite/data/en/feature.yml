@@ -1,0 +1,32 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : Over 3 decades of professional experience and thousands of satisfied clients.
+  content : "Speed, quality and commitment to each client give results because of which clients keep coming back to us."
+  head : About Us
+  feature_item : 
+    # feature item loop
+    - title :  Optimal Quality 
+      icon : ti-timer # themify icon pack : https://themify.me/themify-icons
+      content :  Many years of experience in working with extremely important documents, working within the given deadlines while respecting all client requirements, quality of work and respecting the confidentiality of information.     
+
+      # feature item loop
+    - title : Same Day Translations
+      icon : ti-wand # themify icon pack : https://themify.me/themify-icons
+      content :  If the document is delivered timely and its length allows it, the translation will be done with (if needed) or without certification on the same day.
+
+      # feature item loop
+    - title : Personalized Attention
+      icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+      content : We make no distinction between “big” and “small” clients or projects. We deem each client equally important.
+      
+      # feature item loop
+    - title : Cost Effective
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : There is no higher or lower price. For us, everyone is the same and we treat everyone equally.
+
+
+
+

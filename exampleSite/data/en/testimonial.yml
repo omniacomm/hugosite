@@ -1,0 +1,47 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Dejan Ćertić
+      company: Business Law Serbia 
+      position: Managing Director
+      image : images/client/bls_of_1.jpg
+      image_webp : images/client/bls_of_1.webp
+      date : Dec 26, 2018
+      content : For more than 20 years, we have successfully cooperated as a Law Office with the agency OMNIA Communications. Translations from English/Serbian, as well as from dozens of other languages, were always professional, done as quickly as possible and translated with or without court certification, and involved various professional terminology specific to the legal field. The long-term professional experience of OMNIA Communications is truly worthy of further recommendation and reference.
+      
+    - name : Luis Antonio
+      company: Joysonic d.o.o.
+      position: CEO
+      image : images/client/joysonic_o_1.jpg
+      image_webp : images/client/joysonic_o_1.webp
+      date : Dec 20, 2022
+      content :  We have, for 9 years now, depended on the translation services provided by OMNIA Communications for all our needs as non-Serbian speakers. Mr. Lukic's Agency is fast, efficient, reliable, professional and cooperative. To us, the added value is insightfulness, OMNIA Communications produces translations with impeccable attention to detail, relevant to the field in question and down to specific subtleties with a very high level of rigor. Absolutely recommended.
+
+    - name : Ivana Mirkov
+      company: Media House doo Beograd
+      position: CFO
+      image : images/client/mh_o_sq.jpg
+      image_webp : images/client/mh_o_sq.webp
+      date : Dec 21, 2022
+      content :  We have been working with the OMNIA Communication Agency for many years, and what sets them apart is the good communication we have had from the beginning. Their concern for us as a client, understanding and easy adaptation to our specific requirements are the reasons for our long-term cooperation, as well as the reason to always recommend them to our partners and associates with great pleasure.
+
+    - name : Jelena Matejić
+      company:
+      position: Finance Manager
+      image : images/client/jm_fm.jpg
+      image_webp : images/client/jm_fm.webp
+      date : Dec 27, 2022
+      content :  We are very satisfied with your work, speed, accuracy and professionalism. The advantage is that you can send the documents in digital format immediately to our email. You never ask for advance payment and you don't burden your business partners with formalities. It is always a pleasure to cooperate with you.
+
+    - name : Zoran Radoičić
+      company: Biotest d.o.o.
+      position: Managing Director
+      image : images/client/btdoo_o-zr.jpg
+      image_webp : images/client/btdoo_o-zr.webp
+      date : Dec 30, 2022
+      content :   In all segments of business today, there is a general lack of dedicated people like Mr. Nenad Lukić, who conducts his business both efficiently and effectively. In addition to being an extremely direct and pleasant person, Mr. Nenad Lukić is a top professional and it is a pleasure to cooperate with him when it comes to translation services, both for my company's business and for private needs. I started cooperation with Omnia Communications several years ago by accident, but we have continued it until today. The speed with which Omnia Communications delivers translations covers even those urgent requests "for yesterday". However, this does not affect the quality in the least, as the translations are done with full dedication and possible ambiguities are identified and resolved in advance. With all that, I can always count on experience and knowledge of national and international regulations regarding the translation of important documents. Sincere recommendations for Omnia Communications.
+

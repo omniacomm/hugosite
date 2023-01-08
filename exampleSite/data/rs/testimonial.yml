@@ -1,0 +1,47 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Dejan Ćertić
+      company: Business Law Serbia 
+      position: Izvršni direktor
+      image : images/client/bls_of_1.jpg
+      image_webp : images/client/bls_of_1.webp
+      date : Dec 26, 2018
+      content : Više od 20 godina uspešno sarađujemo kao Advokatska Kancelarija sa agencijom Omnia Communications. Prevodi sa engleskog/srpskog kao i sa desetina drugih jezika su uvek bili profesionalni, urađeni u maksimalno brzom roku i prevedeni bilo da je reč o prevodima sa ili bez sudske overe razne stručne terminologije specifične za pravnu oblast. Dugogodišnje iskustvo agencije Omnia je zaista za svaku dalju preporuku i referencu.
+      
+    - name : Luis Antonio
+      company: Joysonic d.o.o.
+      position: CEO
+      image : images/client/joysonic_o_1.jpg
+      image_webp : images/client/joysonic_o_1.webp
+      date : Dec 26, 2021
+      content :  Već 9 godina se oslanjamo od prevodilačke usluge koje pruža OMNIA Communications za sve naše potrebe kao klijanata koji dolaze van srpskog govornog područja. Agencija gospodina Lukića je brza, efikasna, pouzdana, profesionalna i kooperativna. Za nas, dodatna vrednost je pronicljivost, jer OMNIA Communications proizvodi prevode sa besprekornom pažnjom vezanom za detalje, relevantne za predmetnu oblast i sve do specifičnih suptilnosti uz veoma visok nivo rigorozne kontrole. Apsolutno preporučeno.
+
+    - name : Ivana Mirkov
+      company: Media House d.o.o. Beograd
+      position: Finansijski direktor
+      image : images/client/mh_o_sq.jpg
+      image_webp : images/client/mh_o_sq.webp
+      date : Dec 21, 2022
+      content :  Sa Agencijom OMNIA Communication sarađujemo dugi niz godina a ono što ih posebno izdvaja je dobra komunikacija koju imamo od početka. Njihova briga o nama kao korisniku, razumevanje i lako prilagođavanje našim specifičnim zahtevima razlozi su naše dugogodišnje saradnje, kao i povod da ih sa velikom zadovoljstvom uvek preporučimo našim partnerima i saradnicima.
+
+
+    - name : Jelena Matejić
+      company: 
+      position: Finance Manager
+      image : images/client/jm_fm.jpg
+      image_webp : images/client/jm_fm.webp
+      date : Dec 27, 2022
+      content :  Mi smo prezadovoljni Vašim radom, brzinom, tačnošću i poslovnošću. Prednost je što dokumenta pošaljete i u digitalnom formatu odmah na mejl. Nikada ne tražite plaćanje po predračunu i ne opterećujete poslovne partnere formalnostima. Uvek nam je zadovoljstvo da srađujemo sa Vama.
+
+    - name : Zoran Radoičić
+      company: Biotest d.o.o.
+      position: Managing Director
+      image : images/client/btdoo_o-zr.jpg
+      image_webp : images/client/btdoo_o-zr.webp
+      date : Dec 30, 2022
+      content :   U  svim segmentima poslovanja danas generalno nedostaju posvećeni ljudi kao što je g-din Nenad Lukić, koji svoje poslovanje obavlja istovremeno efikasno i efektivno. Osim što je izuzetno neposredna i prijatna osoba, g-din Nenad Lukić je vrhunski profesionalac i zadovoljstvo je sarađivati sa njim kada su u pitanju usluge prevođenja, kako za poslovanje moje firme, tako i za privatne potrebe. Sa Omnia Communications sam pre više godina saradnju započeo slučajno ali smo je nastavili do danas. Brzina kojom Omnia Communications dostavlja prevode pokriva i one hitne zahteve “za juče”. To, međutim, ni najmanje ne utiče na kvalitet, jer se prevodi rade sa punom pažnjom i unapred se identifikuju i rešavaju moguće nejasnoće. Uz sve to, uvek mogu da računam na iskustvo i poznavanje domaćih i internacionalnih propisa koji se tiču prevoda važnih dokumenata. Iskrene preporuke za Omnia Communications.

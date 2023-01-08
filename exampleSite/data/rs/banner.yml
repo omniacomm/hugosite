@@ -1,0 +1,15 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "OMNIA Communications"
+  content : "Prevodi sa i na engleski jezik, sa i bez overe sudskog prevodioca"
+  content1 : "Prevedeno više od"
+  number: "**15.000.000**"
+  content2 : "reči"
+  button:
+    enable : true
+    label : "Naše usluge"
+    link : "#services"
