@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
+#disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 
 disableLanguages = []
@@ -193,8 +193,8 @@ weight = 7
 logo = "images/logo.png"
 logobig = "images/Omnia_Logo_B_white.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Prevodi sa i na engleski jezik, sa i bez overe sudskog prevodioca"
+author = "OmniaCommunications"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
