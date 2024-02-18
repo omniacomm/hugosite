@@ -250,7 +250,7 @@ languageCode = "rs-rs"
 contentDir = "content/serbian"
 weight = 1
 home = "Početak"
-copyright = "OMNIA Communications &copy; 2023"
+copyright = "OMNIA Communications &copy; 2024"
 credit = "Developed by [Joysonic](https://www.joysonic.dev). Thanks to:  [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
 
 ################################ English Language ########################
@@ -260,7 +260,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "OMNIA Communications &copy; 2023"
+copyright = "OMNIA Communications &copy; 2024"
 credit = "Developed by [Joysonic](https://www.joysonic.dev). Thanks to:  [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
 
 
